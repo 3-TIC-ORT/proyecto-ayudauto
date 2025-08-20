@@ -1,0 +1,15 @@
+Reunir los componentes en Tinkercad (Arduino UNO, driver L298N, motores, módulo Bluetooth, sensores ultrasónicos, LEDs, batería, cables).
+https://docs.google.com/spreadsheets/d/1mGp8U0CQg1Gd3saqSYP0Ei-25L331bkHG3Ui1tvd6ZU/edit?usp=sharing
+Armar el circuito base en Tinkercad (Arduino + driver + batería).
+
+Conectar los motores al driver y luego al Arduino.
+
+Conectar el módulo Bluetooth al Arduino (para recibir señales del control de PS4).
+
+Conectar los sensores ultrasónicos al Arduino (para detectar obstáculos).
+
+Conectar las luces LED con resistencias al Arduino.
+
+Revisar las conexiones en Tinkercad (alimentación, tierra común, pines correctos).
+
+Probar el circuito en Tinkercad (primero motores, después Bluetooth, luego sensores y luces).
